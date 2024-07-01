@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-01LFHFS;Database=TaskManager;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
